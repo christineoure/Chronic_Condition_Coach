@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_4",
+  "topic": "asthma",
+  "type": "clinical_summary",
+  "title": "Asthma - Clinical Summary",
+  "content": "## Clinical Overview: asthma\n\nasthma affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nCover inhaler techniques, trigger avoidance, action plans for exacerbations, and environmental controls.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:02:15.121493",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 76
+  }
+}

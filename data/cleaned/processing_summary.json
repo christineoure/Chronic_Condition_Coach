@@ -1,0 +1,25 @@
+{
+  "total_chunks": 191,
+  "total_documents_processed": 187,
+  "source_distribution": {
+    "pubmed": 83,
+    "synthetic_mock": 50,
+    "clinicaltrials.gov": 40,
+    "synthetic_qna": 15,
+    "synthetic": 3
+  },
+  "topic_distribution": {
+    "diabetes": 20,
+    "management?": 19,
+    "general": 10,
+    "hypertension": 10,
+    "patients": 10,
+    "asthma": 8,
+    "COPD": 6,
+    "Asthma": 5,
+    "anticoagulation": 4,
+    "Hypertension": 4
+  },
+  "average_chunk_size": 109.1413612565445,
+  "processing_date": "2026-01-07T18:40:39.763550"
+}

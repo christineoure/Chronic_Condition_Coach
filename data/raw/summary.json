@@ -1,0 +1,25 @@
+{
+  "total_documents": 12,
+  "sources": [
+    "asthma_insights",
+    "wearable_pattern",
+    "sleep_quality",
+    "health_guideline",
+    "wearable_insight",
+    "diabetes_pattern",
+    "expert_advice",
+    "pattern_analysis",
+    "nutrition_guidance",
+    "coaching_principle",
+    "hypertension_guide",
+    "recovery_principles"
+  ],
+  "total_words": 419,
+  "sample_titles": [
+    "Environmental Triggers",
+    "Step Count and Energy Levels",
+    "Sleep Hygiene Practices",
+    "Sleep and Blood Sugar Regulation",
+    "HRV and Chronic Stress Patterns"
+  ]
+}

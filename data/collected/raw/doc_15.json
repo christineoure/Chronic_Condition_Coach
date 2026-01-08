@@ -1,0 +1,24 @@
+{
+  "pmid": "41496347",
+  "title": "Protecting the endocrine axis in immuno-oncology: GLP-1 receptor agonists as host-directed modulators in colorectal cancer.",
+  "abstract": "Immune checkpoint inhibitors (ICIs) have transformed colorectal cancer (CRC), particularly in microsatellite instability-high (MSI-H) and mismatch repair-deficient (dMMR) tumors, delivering durable responses and long-term survival. Yet this success is shadowed by immune-related adverse events (irAEs). Among them, endocrine toxicities including thyroiditis, hypophysitis, adrenalitis, and insulin-deficient diabetes are relatively frequent, irreversible, and frequently life-long. Survivors who might otherwise be considered cured remain tethered to chronic hormone replacement, underscoring a striking gap in immuno-oncology: management is reactive, supportive, and devoid of preventive strategies. Concurrently, glucagon-like peptide-1 receptor agonists (GLP-1RAs), introduced for type 2 diabetes (T2D) and obesity, are emerging as systemic modulators of inflammation, immunometabolism, and the gut microbiome. These three axes converge on mechanisms central to endocrine irAEs. Preclinical and epidemiologic data suggest that GLP-1RAs may also be associated with reduced cancer incidence and alterations in tumor-associated immune responses, raising the possibility of dual utility: mitigating endocrine autoimmunity while preserving or even augmenting anti-tumor efficacy. At the same time, their appetite-suppressing and weight-reducing effects highlight the countervailing risk of exacerbating cancer cachexia, demanding careful integration with nutritional and exercise strategies. Here, we synthesize current understanding of ICI-induced endocrine injury, delineate the immunobiology of GLP-1RAs, and develop a unified mechanistic framework linking these domains in CRC. We propose a translational roadmap spanning retrospective pharmacoepidemiology, biomarker-driven stratification, and prospective clinical trials. More broadly, GLP-1RAs exemplify host-directed therapies that may help shift the therapeutic focus of immuno-oncology toward preserving survivorship and endocrine health as integral endpoints of cancer care.",
+  "authors": [
+    "Samira Saghafi",
+    "Mohammad Ali Yaghoubi",
+    "Hossein Safarpour",
+    "Hamideh Raeisi",
+    "Zohreh Mousavi"
+  ],
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "year": "",
+  "keywords": [
+    "Colorectal cancer",
+    "Endocrine irAEs",
+    "Glucagon-like peptide-1 receptor agonists",
+    "Gut microbiome",
+    "Immune checkpoint inhibitors",
+    "Immuno-oncology"
+  ],
+  "source": "pubmed",
+  "collected_at": "2026-01-07T20:02:10.648919"
+}

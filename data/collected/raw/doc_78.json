@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_23",
+  "topic": "diabetes",
+  "type": "patient_guide",
+  "title": "Diabetes - Patient Guide",
+  "content": "## diabetes: A Patient's Guide\n\nLearn about symptoms, treatments, and self-care strategies for diabetes.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:02:15.121836",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 73
+  }
+}

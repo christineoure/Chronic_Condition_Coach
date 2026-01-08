@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_9",
+  "topic": "hypertension",
+  "type": "faq",
+  "title": "Hypertension - Faq",
+  "content": "## Frequently Asked Questions about hypertension\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nEmphasize regular blood pressure monitoring, medication adherence, sodium restriction, and stress management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:02:15.121570",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 84
+  }
+}

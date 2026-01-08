@@ -1,0 +1,26 @@
+{
+  "pmid": "41484425",
+  "title": "Subgroup analysis of genotype guided vs traditional warfarin dosing in Asian patients from an open label randomized trial.",
+  "abstract": "Genotype-guided warfarin dosing has shown improved anticoagulation outcomes in individuals of European and Asian ancestry. However, its usefulness in specific subgroups remains uncertain. This open-label, non-inferiority randomized trial (NCT00700895) was conducted across three academic hospitals in Southeast Asia to assess the utility of genotype-guided warfarin dosing in Asian patients, focusing on specific potentially high-risk subgroups. We enrolled 322 newly initiated warfarin patients. The primary endpoint was the number of dose adjustments within the first 14\u00a0days of treatment, with a non-inferiority margin of 0.5. Clinical follow-up lasted 90\u00a0days. Among 322 randomized patients, 269 (mean age 58.7\u00a0years, 59.9% males) were evaluated for the primary endpoint. The pharmacogenetic algorithm significantly reduced dose titrations during the initial 14\u00a0days compared to the traditional dosing algorithm, without compromising safety. This benefit was consistent in those with atrial fibrillation (N\u2009=\u2009101, mean difference -1.63, 95% CI -2.16 to -1.10), non-atrial fibrillation indications (N\u2009=\u2009165, mean difference -0.88, 95% CI -1.26 to -0.49), stroke-only indications (N\u2009=\u200919, mean difference -1.60, 95% CI -2.83 to -0.37), history of acute myocardial infarction (N\u2009=\u200920), congestive heart failure (N\u2009=\u200934), hypertension (N\u2009=\u2009152), diabetes mellitus (N\u2009=\u200995), and across races (Chinese, N\u2009=\u2009163; Malay, Indian and Others, N\u2009=\u2009104), sexes (female, N\u2009=\u2009161 and male, N\u2009=\u2009108), and age groups (<\u200965\u00a0years, N\u2009=\u2009168 and\u2009\u2265\u200965\u00a0years, N\u2009=\u2009101). However, no significant reduction was observed in patients with a history of stroke. There were no differences in minor or major bleeding complications, recurrent venous thromboembolism, or out-of-range INR measurements across most subgroups. Healthcare providers may consider using pharmacogenetic algorithms to individualize initial warfarin dosages in specific high risk Asian subpopulations. Trial registration: ClinicalTrials.gov NCT00700895 (19/06/2008).",
+  "authors": [
+    "Hon Jen Wong",
+    "Yao Neng Teo",
+    "Yao Hao Teo",
+    "Nicholas L Syn",
+    "Andrea Li-Ann Wong"
+  ],
+  "journal": "Scientific reports",
+  "year": "",
+  "keywords": [
+    "Anticoagulants",
+    "CYP2C9",
+    "Pharmacogenetics",
+    "Pharmacogenomics",
+    "Polymorphism",
+    "Precision Medicine",
+    "VKORC1",
+    "Warfarin"
+  ],
+  "source": "pubmed",
+  "collected_at": "2026-01-07T20:02:59.303947"
+}

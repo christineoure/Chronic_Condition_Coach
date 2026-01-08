@@ -1,0 +1,28 @@
+{
+  "start_time": "2026-01-07T20:02:42.441865",
+  "sources": {
+    "web": {
+      "sources_scraped": 5,
+      "documents_collected": 4,
+      "errors": 1
+    },
+    "pubmed": {
+      "searches_performed": 3,
+      "articles_found": 45,
+      "documents_collected": 45
+    },
+    "clinical_trials": {
+      "conditions_searched": 4,
+      "trials_found": 40,
+      "documents_collected": 40
+    },
+    "synthetic": {
+      "topics_covered": 5,
+      "documents_generated": 25,
+      "qna_pairs_generated": 15
+    }
+  },
+  "total_documents": 89,
+  "end_time": "2026-01-07T20:03:09.358059",
+  "success": true
+}

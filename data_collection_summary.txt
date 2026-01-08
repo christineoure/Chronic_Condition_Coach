@@ -1,0 +1,9 @@
+Data Collection Summary (200 total documents):
+  - clinical: 39 documents
+  - doc: 80 documents
+  - synthetic: 28 documents
+  - pubmed: 44 documents
+  - trials: 2 documents
+  - qna: 2 documents
+  - web: 4 documents
+  - medical: 1 documents

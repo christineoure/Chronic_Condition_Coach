@@ -1,0 +1,25 @@
+{
+  "collection_name": "chronic_health_knowledge",
+  "total_chunks": 12,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "sources": [
+    "wearable_pattern",
+    "health_guideline",
+    "sleep_quality",
+    "asthma_insights",
+    "expert_advice",
+    "recovery_principles",
+    "coaching_principle",
+    "diabetes_pattern",
+    "wearable_insight",
+    "nutrition_guidance",
+    "hypertension_guide",
+    "pattern_analysis"
+  ],
+  "sample_queries": [
+    "How does sleep affect blood sugar?",
+    "What is HRV and stress?",
+    "Managing hypertension naturally"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+    "web_sources": [
+        {
+            "name": "CDC Chronic Conditions",
+            "url": "https://www.cdc.gov/chronicdisease/about/index.htm",
+            "type": "html",
+            "tags": ["authoritative", "lifestyle", "prevention"]
+        },
+        {
+            "name": "WHO Noncommunicable Diseases",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases",
+            "type": "html",
+            "tags": ["global", "authoritative", "evidence-based"]
+        },
+        {
+            "name": "American Heart Association - Hypertension",
+            "url": "https://www.heart.org/en/health-topics/high-blood-pressure",
+            "type": "html",
+            "tags": ["heart-health", "lifestyle", "monitoring"]
+        },
+        {
+            "name": "American Diabetes Association",
+            "url": "https://www.diabetes.org/diabetes",
+            "type": "html",
+            "tags": ["diabetes", "management", "lifestyle"]
+        },
+        {
+            "name": "NIH - National Institute of Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes",
+            "type": "html",
+            "tags": ["research", "authoritative", "comprehensive"]
+        },
+        {
+            "name": "Mayo Clinic - Chronic Diseases",
+            "url": "https://www.mayoclinic.org/diseases-conditions",
+            "type": "html",
+            "tags": ["clinical", "patient-education", "lifestyle"]
+        },
+        {
+            "name": "Arthritis Foundation",
+            "url": "https://www.arthritis.org/diseases",
+            "type": "html",
+            "tags": ["arthritis", "pain-management", "mobility"]
+        },
+        {
+            "name": "American Lung Association",
+            "url": "https://www.lung.org/lung-health-diseases",
+            "type": "html",
+            "tags": ["respiratory", "lifestyle", "management"]
+        },
+        {
+            "name": "NHS Chronic Conditions",
+            "url": "https://www.nhs.uk/conditions/",
+            "type": "html",
+            "tags": ["uk", "authoritative", "lifestyle"]
+        },
+        {
+            "name": "CDC Diabetes Management",
+            "url": "https://www.cdc.gov/diabetes/managing/index.html",
+            "type": "html",
+            "tags": ["diabetes", "self-care", "monitoring"]
+        },
+        {
+            "name": "CDC Heart Disease",
+            "url": "https://www.cdc.gov/heartdisease/index.htm",
+            "type": "html",
+            "tags": ["cardiovascular", "prevention", "lifestyle"]
+        },
+        {
+            "name": "NIH Heart Failure",
+            "url": "https://www.nhlbi.nih.gov/health/heart-failure",
+            "type": "html",
+            "tags": ["heart-failure", "management", "monitoring"]
+        },
+        {
+            "name": "NIH Chronic Pain",
+            "url": "https://www.ninds.nih.gov/health-information/chronic-pain",
+            "type": "html",
+            "tags": ["pain", "management", "lifestyle"]
+        },
+        {
+            "name": "Harvard Health - Chronic Disease Prevention",
+            "url": "https://www.health.harvard.edu/topics/chronic-disease",
+            "type": "html",
+            "tags": ["research", "prevention", "lifestyle"]
+        },
+        {
+            "name": "Johns Hopkins Medicine - Chronic Conditions",
+            "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases",
+            "type": "html",
+            "tags": ["clinical", "education", "management"]
+        },
+        {
+            "name": "Cleveland Clinic - Chronic Illness",
+            "url": "https://health.clevelandclinic.org/chronic-illness/",
+            "type": "html",
+            "tags": ["patient-care", "lifestyle", "self-management"]
+        },
+        {
+            "name": "American Psychological Association - Chronic Illness",
+            "url": "https://www.apa.org/topics/chronic-illness",
+            "type": "html",
+            "tags": ["mental-health", "coping", "behavioral"]
+        },
+        {
+            "name": "Verywell Health - Chronic Conditions",
+            "url": "https://www.verywellhealth.com/chronic-conditions-4014675",
+            "type": "html",
+            "tags": ["patient-education", "lifestyle", "management"]
+        },
+        {
+            "name": "Healthline - Chronic Disease Management",
+            "url": "https://www.healthline.com/health/chronic-disease",
+            "type": "html",
+            "tags": ["education", "lifestyle", "self-care"]
+        },
+        {
+            "name": "WebMD - Chronic Conditions Center",
+            "url": "https://www.webmd.com/a-to-z-guides/chronic-conditions",
+            "type": "html",
+            "tags": ["comprehensive", "patient-focused", "management"]
+        },
+        {
+            "name": "American Cancer Society - Living with Cancer",
+            "url": "https://www.cancer.org/cancer/managing-cancer.html",
+            "type": "html",
+            "tags": ["cancer", "quality-of-life", "lifestyle"]
+        },
+        {
+            "name": "National Kidney Foundation - Living with Kidney Disease",
+            "url": "https://www.kidney.org/patients",
+            "type": "html",
+            "tags": ["kidney", "diet", "lifestyle", "monitoring"]
+        },
+        {
+            "name": "American Academy of Family Physicians - Chronic Disease",
+            "url": "https://www.aafp.org/patient-care/public-health/chronic-disease.html",
+            "type": "html",
+            "tags": ["primary-care", "prevention", "management"]
+        },
+        {
+            "name": "MedlinePlus - Chronic Illness",
+            "url": "https://medlineplus.gov/chronicillness.html",
+            "type": "html",
+            "tags": ["nih", "comprehensive", "patient-education"]
+        },
+        {
+            "name": "Stanford Medicine - Chronic Disease Self-Management",
+            "url": "https://med.stanford.edu/cdsmp.html",
+            "type": "html",
+            "tags": ["self-management", "education", "empowerment"]
+        },
+        {
+            "name": "CDC - Arthritis Program",
+            "url": "https://www.cdc.gov/arthritis/index.htm",
+            "type": "html",
+            "tags": ["arthritis", "mobility", "pain-management"]
+        },
+        {
+            "name": "American College of Cardiology - Heart Health",
+            "url": "https://www.acc.org/tools-and-practice-support/patient-care-tools/heart-health",
+            "type": "html",
+            "tags": ["cardiology", "prevention", "lifestyle"]
+        },
+        {
+            "name": "Endocrine Society - Diabetes Resources",
+            "url": "https://www.endocrine.org/patient-engagement",
+            "type": "html",
+            "tags": ["endocrine", "diabetes", "management"]
+        },
+        {
+            "name": "American Gastroenterological Association - IBD",
+            "url": "https://gastro.org/patients/ibd-resource-center/",
+            "type": "html",
+            "tags": ["digestive", "inflammatory", "lifestyle"]
+        },
+        {
+            "name": "Lupus Foundation of America",
+            "url": "https://www.lupus.org/resources",
+            "type": "html",
+            "tags": ["autoimmune", "management", "lifestyle"]
+        },
+        {
+            "name": "American Thyroid Association",
+            "url": "https://www.thyroid.org/patient-thyroid-information/",
+            "type": "html",
+            "tags": ["thyroid", "metabolic", "management"]
+        },
+        {
+            "name": "American Sleep Association",
+            "url": "https://www.sleepassociation.org/patients-general-public/",
+            "type": "html",
+            "tags": ["sleep", "chronic-conditions", "lifestyle"]
+        },
+        {
+            "name": "ADA Nutrition Guidelines",
+            "url": "https://www.diabetes.org/healthy-living/recipes-nutrition",
+            "type": "html",
+            "tags": ["nutrition", "diabetes", "meal-planning"]
+        },
+        {
+            "name": "AHA Nutrition Center",
+            "url": "https://www.heart.org/en/healthy-living/healthy-eating",
+            "type": "html",
+            "tags": ["nutrition", "heart-health", "diet"]
+        },
+        {
+            "name": "Physical Activity Guidelines - HHS",
+            "url": "https://health.gov/our-work/physical-activity/current-guidelines",
+            "type": "html",
+            "tags": ["exercise", "activity", "lifestyle"]
+        },
+        {
+            "name": "CDC - Sleep and Chronic Disease",
+            "url": "https://www.cdc.gov/sleep/about_sleep/chronic_disease.html",
+            "type": "html",
+            "tags": ["sleep", "chronic-disease", "health"]
+        },
+        {
+            "name": "NIH - Stress and Disease",
+            "url": "https://www.nimh.nih.gov/health/publications/stress",
+            "type": "html",
+            "tags": ["stress", "mental-health", "management"]
+        }
+    ],
+    "synthetic_prompts": [
+        "Explain how wearable data can help detect chronic disease flare-ups",
+        "How physical inactivity worsens chronic disease outcomes",
+        "Daily routines for people managing multiple chronic conditions",
+        "Impact of dehydration on chronic illness symptoms",
+        "How stress hormones affect blood sugar and blood pressure",
+        "Lifestyle strategies for preventing disease progression",
+        "How to interpret glucose trends from wearables",
+        "Managing fatigue in chronic illness",
+        "Mental health considerations in chronic disease care",
+        "Role of social support in chronic disease outcomes",
+        "How poor sleep affects inflammation and pain",
+        "Recognizing early warning signs of disease exacerbation",
+        "How diet consistency impacts metabolic conditions",
+        "Managing chronic disease during travel",
+        "Adapting exercise for limited mobility",
+        "How alcohol affects chronic conditions",
+        "Smoking cessation strategies for chronic illness",
+        "Managing chronic illness at work",
+        "Hydration strategies for kidney and heart conditions",
+        "Preventing hospital readmissions through lifestyle monitoring",
+        "Using activity trackers to optimize daily energy expenditure",
+        "Mindfulness techniques for chronic pain management",
+        "Nutrition timing strategies for diabetes management",
+        "Sleep hygiene for people with chronic fatigue",
+        "Adaptive cooking techniques for arthritis patients",
+        "Workplace accommodations for chronic conditions",
+        "Travel medication management systems",
+        "Monitoring blood pressure variability patterns",
+        "Social isolation prevention in chronic illness",
+        "Emergency preparedness for chronic disease patients",
+        "Seasonal adaptation strategies for chronic conditions",
+        "Digital health literacy for older adults with chronic disease",
+        "Caregiver support strategies in chronic disease management",
+        "Financial planning for chronic illness expenses",
+        "Home environment modifications for chronic conditions",
+        "Transportation strategies for medical appointments",
+        "Medication adherence tracking systems",
+        "Weather sensitivity management in chronic illness",
+        "Pacing techniques to prevent overexertion",
+        "Community resource navigation for chronic disease support"
+    ],
+    "api_sources": [
+        {
+            "name": "PubMed Central API",
+            "type": "api",
+            "endpoint": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/",
+            "queries": [
+                "chronic disease self-management randomized controlled trial",
+                "lifestyle intervention diabetes prevention",
+                "wearable technology chronic condition monitoring",
+                "telemedicine chronic disease management",
+                "patient education chronic illness outcomes"
+            ],
+            "max_results": 50,
+            "tags": ["research", "clinical-trials", "evidence"]
+        },
+        {
+            "name": "ClinicalTrials.gov API",
+            "type": "api",
+            "endpoint": "https://clinicaltrials.gov/api/v2/studies",
+            "conditions": [
+                "Diabetes Mellitus",
+                "Hypertension",
+                "Chronic Obstructive Pulmonary Disease",
+                "Heart Failure",
+                "Arthritis",
+                "Chronic Kidney Disease",
+                "Asthma",
+                "Chronic Pain"
+            ],
+            "max_results": 40,
+            "tags": ["trials", "interventions", "outcomes"]
+        }
+    ],
+    "data_collection_notes": {
+        "authoritative_sources": "All sources are from established medical organizations, government health agencies, or accredited medical institutions",
+        "non_diagnostic": "Content focuses on lifestyle management, prevention, and self-care rather than diagnosis or treatment",
+        "lifestyle_focus": "Emphasis on daily habits, behavior change, and quality of life improvements",
+        "behavior_rich": "Includes practical strategies, routines, and actionable advice",
+        "wearable_compatible": "Content relevant to activity tracking, monitoring, and data interpretation",
+        "chronic_specific": "Targets common chronic conditions with long-term management needs",
+        "interview_defensible": "Sources are credible and would withstand professional scrutiny"
+    }
+}

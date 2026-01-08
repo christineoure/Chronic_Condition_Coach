@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_3",
+  "topic": "arthritis",
+  "type": "clinical_summary",
+  "title": "Arthritis - Clinical Summary",
+  "content": "## arthritis Management Guidelines\n\nEvidence-based approaches to arthritis management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nDiscuss pain management strategies, joint protection techniques, exercise modifications, and assistive devices.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:02:15.121478",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 73
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "doc_id": "synth_001",
+    "title": "Diabetes Management Guide",
+    "content": "Managing diabetes involves regular monitoring of blood sugar levels, following a balanced diet, engaging in physical activity, and taking medications as prescribed. Key strategies include carbohydrate counting, portion control, and stress management.",
+    "source": "synthetic",
+    "topic": "diabetes"
+  },
+  {
+    "doc_id": "synth_002",
+    "title": "Hypertension Lifestyle Tips",
+    "content": "To lower blood pressure naturally: reduce sodium intake, increase potassium-rich foods, exercise regularly, maintain healthy weight, limit alcohol, and manage stress through techniques like meditation and deep breathing.",
+    "source": "synthetic",
+    "topic": "hypertension"
+  },
+  {
+    "doc_id": "synth_003",
+    "title": "Chronic Pain Management",
+    "content": "Managing chronic pain involves a multi-faceted approach: physical therapy, gentle exercise, stress reduction techniques, proper sleep hygiene, and pain medications as prescribed. Mind-body techniques like mindfulness can be particularly helpful.",
+    "source": "synthetic",
+    "topic": "pain management"
+  }
+]

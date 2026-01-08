@@ -1,0 +1,15 @@
+{
+  "nct_id": "NCT06119152",
+  "title": "Digital Equity for Stroke Approach",
+  "conditions": [
+    "Stroke",
+    "Blood Pressure, High"
+  ],
+  "interventions": [
+    "DESA"
+  ],
+  "phase": "NA",
+  "summary": "A community-academic partnership composed of a State University of New York (SUNY) Downstate Health Sciences University inter-disciplinary team of scientists (representing public health, medical informatics, vascular neurology/stroke center) and the Digital Equity Community Advisory Board (DECA) will guide our research. This is an NIH R21 pilot study. Our Specific Aims are designed to inform the sample design and research priorities for a larger NIH R01 experimental study and to serve as a platform for similar studies with other health conditions. We propose a mixed-methods study design with the following aims:\n\n1. Assess and build setting, community, and user fit of DESA, leveraging qualitative methods and simulation telehealth encounters between the patient and neurologist.\n2. Conduct a 9-month pilot randomized control trial (RCT) of DESA in a Central Brooklyn stroke population to examine the feasibility and preliminary efficacy. We will randomize 50 adults to DESA and 30 to usual care. The primary outcome will be BP control. Secondary outcomes include the number of BP measurements and medication compliance. Our primary hypothesis is that patients randomized to the DESA will significantly reduce systolic blood pressure at 9 months.\n3. Examine barriers and facilitators to the adoption and integration of DESA into routine stroke care utilizing key informant interviews and user satisfaction surveys with neurologists and intervention participants.",
+  "source": "clinicaltrials.gov",
+  "collected_at": "2026-01-07T20:03:08.377787"
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "doc_id": "synthetic_0",
+    "topic": "patients",
+    "type": "faq",
+    "title": "Patients - Faq",
+    "content": "## patients: Questions and Answers\n\nAddressing common patient concerns about patients treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.110765",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_1",
+    "topic": "diabetes",
+    "type": "research_synopsis",
+    "title": "Diabetes - Research Synopsis",
+    "content": "## Recent Advances in diabetes Research\n\nNew studies show promising developments in diabetes treatment and understanding.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.110821",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 75
+    }
+  },
+  {
+    "doc_id": "synthetic_2",
+    "topic": "patients",
+    "type": "research_synopsis",
+    "title": "Patients - Research Synopsis",
+    "content": "## Recent Advances in patients Research\n\nNew studies show promising developments in patients treatment and understanding.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.110854",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_3",
+    "topic": "management?",
+    "type": "research_synopsis",
+    "title": "Management? - Research Synopsis",
+    "content": "## management?: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for management?.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.110881",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 72
+    }
+  },
+  {
+    "doc_id": "synthetic_4",
+    "topic": "management?",
+    "type": "faq",
+    "title": "Management? - Faq",
+    "content": "## management?: Questions and Answers\n\nAddressing common patient concerns about management? treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.110976",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_5",
+    "topic": "hypertension",
+    "type": "faq",
+    "title": "Hypertension - Faq",
+    "content": "## hypertension: Questions and Answers\n\nAddressing common patient concerns about hypertension treatment and management.\n\n### Key Management Strategies\n\nEmphasize regular blood pressure monitoring, medication adherence, sodium restriction, and stress management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111010",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_6",
+    "topic": "management?",
+    "type": "clinical_summary",
+    "title": "Management? - Clinical Summary",
+    "content": "## management? Management Guidelines\n\nEvidence-based approaches to management? management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111034",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_7",
+    "topic": "diabetes",
+    "type": "patient_guide",
+    "title": "Diabetes - Patient Guide",
+    "content": "## Living with diabetes\n\nManaging diabetes involves lifestyle modifications, medication adherence, and regular monitoring.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111059",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_8",
+    "topic": "diabetes",
+    "type": "patient_guide",
+    "title": "Diabetes - Patient Guide",
+    "content": "## Understanding diabetes\n\ndiabetes is a chronic condition that requires careful management. This guide provides practical information for patients.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111085",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 78
+    }
+  },
+  {
+    "doc_id": "synthetic_9",
+    "topic": "patients",
+    "type": "patient_guide",
+    "title": "Patients - Patient Guide",
+    "content": "## Understanding patients\n\npatients is a chronic condition that requires careful management. This guide provides practical information for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111109",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_10",
+    "topic": "management?",
+    "type": "faq",
+    "title": "Management? - Faq",
+    "content": "## Frequently Asked Questions about management?\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111145",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 82
+    }
+  },
+  {
+    "doc_id": "synthetic_11",
+    "topic": "asthma",
+    "type": "research_synopsis",
+    "title": "Asthma - Research Synopsis",
+    "content": "## Recent Advances in asthma Research\n\nNew studies show promising developments in asthma treatment and understanding.\n\n### Key Management Strategies\n\nCover inhaler techniques, trigger avoidance, action plans for exacerbations, and environmental controls.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111173",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 75
+    }
+  },
+  {
+    "doc_id": "synthetic_12",
+    "topic": "hypertension",
+    "type": "faq",
+    "title": "Hypertension - Faq",
+    "content": "## Frequently Asked Questions about hypertension\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nEmphasize regular blood pressure monitoring, medication adherence, sodium restriction, and stress management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111198",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 84
+    }
+  },
+  {
+    "doc_id": "synthetic_13",
+    "topic": "patients",
+    "type": "patient_guide",
+    "title": "Patients - Patient Guide",
+    "content": "## patients: A Patient's Guide\n\nLearn about symptoms, treatments, and self-care strategies for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111285",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_14",
+    "topic": "management?",
+    "type": "faq",
+    "title": "Management? - Faq",
+    "content": "## management?: Questions and Answers\n\nAddressing common patient concerns about management? treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111316",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_15",
+    "topic": "diabetes",
+    "type": "faq",
+    "title": "Diabetes - Faq",
+    "content": "## diabetes: Questions and Answers\n\nAddressing common patient concerns about diabetes treatment and management.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111340",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_16",
+    "topic": "asthma",
+    "type": "clinical_summary",
+    "title": "Asthma - Clinical Summary",
+    "content": "## Clinical Overview: asthma\n\nasthma affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nCover inhaler techniques, trigger avoidance, action plans for exacerbations, and environmental controls.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111366",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_17",
+    "topic": "asthma",
+    "type": "clinical_summary",
+    "title": "Asthma - Clinical Summary",
+    "content": "## Clinical Overview: asthma\n\nasthma affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nCover inhaler techniques, trigger avoidance, action plans for exacerbations, and environmental controls.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111394",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_18",
+    "topic": "diabetes",
+    "type": "clinical_summary",
+    "title": "Diabetes - Clinical Summary",
+    "content": "## Clinical Overview: diabetes\n\ndiabetes affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111418",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_19",
+    "topic": "diabetes",
+    "type": "patient_guide",
+    "title": "Diabetes - Patient Guide",
+    "content": "## Living with diabetes\n\nManaging diabetes involves lifestyle modifications, medication adherence, and regular monitoring.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111442",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_20",
+    "topic": "management?",
+    "type": "research_synopsis",
+    "title": "Management? - Research Synopsis",
+    "content": "## Recent Advances in management? Research\n\nNew studies show promising developments in management? treatment and understanding.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111466",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_21",
+    "topic": "asthma",
+    "type": "faq",
+    "title": "Asthma - Faq",
+    "content": "## Frequently Asked Questions about asthma\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nCover inhaler techniques, trigger avoidance, action plans for exacerbations, and environmental controls.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111491",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 84
+    }
+  },
+  {
+    "doc_id": "synthetic_22",
+    "topic": "patients",
+    "type": "clinical_summary",
+    "title": "Patients - Clinical Summary",
+    "content": "## patients Management Guidelines\n\nEvidence-based approaches to patients management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111519",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_23",
+    "topic": "diabetes",
+    "type": "faq",
+    "title": "Diabetes - Faq",
+    "content": "## diabetes: Questions and Answers\n\nAddressing common patient concerns about diabetes treatment and management.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111544",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_24",
+    "topic": "management?",
+    "type": "faq",
+    "title": "Management? - Faq",
+    "content": "## management?: Questions and Answers\n\nAddressing common patient concerns about management? treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T18:37:46.111567",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  }
+]

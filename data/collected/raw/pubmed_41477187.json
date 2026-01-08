@@ -1,0 +1,23 @@
+{
+  "pmid": "41477187",
+  "title": "Hypertension Phenotypes and Mortality Risk in the United States of America: A Data-Driven Cluster Analysis.",
+  "abstract": "Hypertension is a leading, yet modifiable, cause of mortality worldwide. While current treatment guidelines apply uniformly, variation in outcomes suggests unrecognized biological heterogeneity. Existing classifications based solely on systolic and diastolic blood pressure fail to capture this complexity. We identified data-driven clinical phenotypes of primary hypertension and examined their associations with mortality.",
+  "authors": [
+    "Rodrigo M Carrillo-Larco",
+    "Jithin Sam Varghese",
+    "Arshed Quyyumi",
+    "K M Venkat Narayan",
+    "Peter W F Wilson"
+  ],
+  "journal": "International journal of hypertension",
+  "year": "",
+  "keywords": [
+    "artificial intelligence",
+    "cardiovascular diseases",
+    "machine learning",
+    "precision medicine",
+    "unsupervised learning"
+  ],
+  "source": "pubmed",
+  "collected_at": "2026-01-07T20:02:59.303974"
+}

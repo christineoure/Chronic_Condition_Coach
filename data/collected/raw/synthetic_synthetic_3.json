@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_3",
+  "topic": "overexertion",
+  "type": "research_synopsis",
+  "title": "Overexertion - Research Synopsis",
+  "content": "## overexertion: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for overexertion.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:03:09.346575",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 72
+  }
+}

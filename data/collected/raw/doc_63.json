@@ -1,0 +1,13 @@
+{
+  "doc_id": "synthetic_8",
+  "topic": "kidney disease",
+  "type": "faq",
+  "title": "Kidney Disease - Faq",
+  "content": "## Frequently Asked Questions about kidney disease\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+  "source": "synthetic_mock",
+  "generated_at": "2026-01-07T20:02:15.121556",
+  "metadata": {
+    "model": "mock_generator",
+    "word_count": 83
+  }
+}

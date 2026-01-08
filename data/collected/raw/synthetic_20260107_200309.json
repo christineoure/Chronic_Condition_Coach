@@ -1,0 +1,327 @@
+[
+  {
+    "doc_id": "synthetic_0",
+    "topic": "patients",
+    "type": "clinical_summary",
+    "title": "Patients - Clinical Summary",
+    "content": "## Clinical Overview: patients\n\npatients affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346503",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 74
+    }
+  },
+  {
+    "doc_id": "synthetic_1",
+    "topic": "overexertion",
+    "type": "research_synopsis",
+    "title": "Overexertion - Research Synopsis",
+    "content": "## Recent Advances in overexertion Research\n\nNew studies show promising developments in overexertion treatment and understanding.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346538",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_2",
+    "topic": "overexertion",
+    "type": "clinical_summary",
+    "title": "Overexertion - Clinical Summary",
+    "content": "## overexertion Management Guidelines\n\nEvidence-based approaches to overexertion management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346558",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_3",
+    "topic": "overexertion",
+    "type": "research_synopsis",
+    "title": "Overexertion - Research Synopsis",
+    "content": "## overexertion: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for overexertion.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346575",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 72
+    }
+  },
+  {
+    "doc_id": "synthetic_4",
+    "topic": "patients",
+    "type": "patient_guide",
+    "title": "Patients - Patient Guide",
+    "content": "## Living with patients\n\nManaging patients involves lifestyle modifications, medication adherence, and regular monitoring.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346590",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_5",
+    "topic": "outcomes",
+    "type": "research_synopsis",
+    "title": "Outcomes - Research Synopsis",
+    "content": "## Recent Advances in outcomes Research\n\nNew studies show promising developments in outcomes treatment and understanding.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346604",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_6",
+    "topic": "patients",
+    "type": "faq",
+    "title": "Patients - Faq",
+    "content": "## patients: Questions and Answers\n\nAddressing common patient concerns about patients treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346619",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_7",
+    "topic": "monitoring",
+    "type": "research_synopsis",
+    "title": "Monitoring - Research Synopsis",
+    "content": "## monitoring: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for monitoring.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346633",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 72
+    }
+  },
+  {
+    "doc_id": "synthetic_8",
+    "topic": "overexertion",
+    "type": "research_synopsis",
+    "title": "Overexertion - Research Synopsis",
+    "content": "## overexertion: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for overexertion.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346648",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 72
+    }
+  },
+  {
+    "doc_id": "synthetic_9",
+    "topic": "diabetes",
+    "type": "patient_guide",
+    "title": "Diabetes - Patient Guide",
+    "content": "## diabetes: A Patient's Guide\n\nLearn about symptoms, treatments, and self-care strategies for diabetes.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346664",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_10",
+    "topic": "overexertion",
+    "type": "faq",
+    "title": "Overexertion - Faq",
+    "content": "## Frequently Asked Questions about overexertion\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346679",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 82
+    }
+  },
+  {
+    "doc_id": "synthetic_11",
+    "topic": "monitoring",
+    "type": "clinical_summary",
+    "title": "Monitoring - Clinical Summary",
+    "content": "## monitoring Management Guidelines\n\nEvidence-based approaches to monitoring management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346694",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_12",
+    "topic": "overexertion",
+    "type": "clinical_summary",
+    "title": "Overexertion - Clinical Summary",
+    "content": "## overexertion Management Guidelines\n\nEvidence-based approaches to overexertion management including pharmacological and non-pharmacological interventions.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346707",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_13",
+    "topic": "monitoring",
+    "type": "patient_guide",
+    "title": "Monitoring - Patient Guide",
+    "content": "## monitoring: A Patient's Guide\n\nLearn about symptoms, treatments, and self-care strategies for monitoring.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346720",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_14",
+    "topic": "monitoring",
+    "type": "faq",
+    "title": "Monitoring - Faq",
+    "content": "## Frequently Asked Questions about monitoring\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346732",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 82
+    }
+  },
+  {
+    "doc_id": "synthetic_15",
+    "topic": "monitoring",
+    "type": "research_synopsis",
+    "title": "Monitoring - Research Synopsis",
+    "content": "## Recent Advances in monitoring Research\n\nNew studies show promising developments in monitoring treatment and understanding.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346746",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 73
+    }
+  },
+  {
+    "doc_id": "synthetic_16",
+    "topic": "patients",
+    "type": "clinical_summary",
+    "title": "Patients - Clinical Summary",
+    "content": "## Clinical Overview: patients\n\npatients affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346759",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 74
+    }
+  },
+  {
+    "doc_id": "synthetic_17",
+    "topic": "overexertion",
+    "type": "clinical_summary",
+    "title": "Overexertion - Clinical Summary",
+    "content": "## Clinical Overview: overexertion\n\noverexertion affects millions worldwide. Key considerations include diagnosis criteria, treatment options, and prognosis.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346772",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 74
+    }
+  },
+  {
+    "doc_id": "synthetic_18",
+    "topic": "patients",
+    "type": "patient_guide",
+    "title": "Patients - Patient Guide",
+    "content": "## Understanding patients\n\npatients is a chronic condition that requires careful management. This guide provides practical information for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346785",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_19",
+    "topic": "overexertion",
+    "type": "faq",
+    "title": "Overexertion - Faq",
+    "content": "## Frequently Asked Questions about overexertion\n\n**Q: What are the main symptoms?**\nA: Common symptoms include...\n\n**Q: How is it diagnosed?**\nA: Diagnosis typically involves...\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346798",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 82
+    }
+  },
+  {
+    "doc_id": "synthetic_20",
+    "topic": "monitoring",
+    "type": "faq",
+    "title": "Monitoring - Faq",
+    "content": "## monitoring: Questions and Answers\n\nAddressing common patient concerns about monitoring treatment and management.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346812",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_21",
+    "topic": "patients",
+    "type": "research_synopsis",
+    "title": "Patients - Research Synopsis",
+    "content": "## patients: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346824",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 72
+    }
+  },
+  {
+    "doc_id": "synthetic_22",
+    "topic": "patients",
+    "type": "patient_guide",
+    "title": "Patients - Patient Guide",
+    "content": "## patients: A Patient's Guide\n\nLearn about symptoms, treatments, and self-care strategies for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346837",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 71
+    }
+  },
+  {
+    "doc_id": "synthetic_23",
+    "topic": "monitoring",
+    "type": "patient_guide",
+    "title": "Monitoring - Patient Guide",
+    "content": "## Understanding monitoring\n\nmonitoring is a chronic condition that requires careful management. This guide provides practical information for patients.\n\n### Key Management Strategies\n\nRegular follow-up with healthcare providers is essential for optimal management.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346849",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 76
+    }
+  },
+  {
+    "doc_id": "synthetic_24",
+    "topic": "diabetes",
+    "type": "research_synopsis",
+    "title": "Diabetes - Research Synopsis",
+    "content": "## diabetes: Current Research Landscape\n\nSummary of ongoing clinical trials and research directions for diabetes.\n\n### Key Management Strategies\n\nFocus on blood glucose monitoring, carbohydrate counting, medication management, and complication prevention.\n\n### Important Considerations\n\n- Always consult with your healthcare provider before making changes to your treatment plan\n- Individual responses to treatments may vary\n- Regular monitoring and follow-up are crucial\n\n*This is educational content and not a substitute for professional medical advice.*",
+    "source": "synthetic_mock",
+    "generated_at": "2026-01-07T20:03:09.346863",
+    "metadata": {
+      "model": "mock_generator",
+      "word_count": 74
+    }
+  }
+]

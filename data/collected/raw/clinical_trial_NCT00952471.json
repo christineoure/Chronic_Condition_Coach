@@ -1,0 +1,14 @@
+{
+  "nct_id": "NCT00952471",
+  "title": "Reduction in Clinical Variance Using Targeted Design Changes in Computerized Provider Order Entry Order (CPOE) Sets",
+  "conditions": [
+    "Asthma Exacerbation"
+  ],
+  "interventions": [
+    "Evidence Based Intervention to order set"
+  ],
+  "phase": "PHASE3",
+  "summary": "Selective redesign of order sets using different ways to frame the order and physician decision-making in a computerized provider order entry system could increase adherence to evidence-based care and reduce population-specific variance.",
+  "source": "clinicaltrials.gov",
+  "collected_at": "2026-01-07T20:03:09.338698"
+}
